@@ -13,7 +13,7 @@
 
 [class^="f16_"],
 [class*=" f16_"] {
-    background: url("../flags/f16.png") no-repeat 0 0 transparent; 
+    background: url("https://uloga.github.io/worldflags/flags/f16.png") no-repeat 0 0 transparent; 
     width: 16px;
     height: 14px;
     line-height: 14px;
@@ -272,7 +272,7 @@
 
 [class^="f24_"],
 [class*=" f24_"] {
-    background: url("../flags/f24.png") no-repeat 0 0 transparent; 
+    background: url("https://uloga.github.io/worldflags/flags/f24.png") no-repeat 0 0 transparent; 
     width: 24px;
     height: 18px;
     line-height: 18px;
@@ -531,7 +531,7 @@
 /* flags 32x32 */
 [class^="f32_"],
 [class*=" f32_"] {
-    background: url("../flags/f32.png") no-repeat 0 0 transparent; 
+    background: url("https://uloga.github.io/worldflags/flags/f32.png") no-repeat 0 0 transparent; 
     width: 32px;
     height: 22px;
     line-height: 26px;
@@ -791,7 +791,7 @@
 
 [class^="f48_"],
 [class*=" f48_"] {
-    background: url("../flags/f48.png") no-repeat 0 0 transparent; 
+    background: url("https://uloga.github.io/worldflags/flags/f48.png") no-repeat 0 0 transparent; 
     width: 48px;
     height: 34px;
     line-height: 38px;
@@ -1049,7 +1049,7 @@
 /* flag icons 64x64 */
 [class^="f64_"],
 [class*=" f64_"] {
-    background: url("../flags/f64.png") no-repeat 0 0 transparent; 
+    background: url("https://uloga.github.io/worldflags/flags/f64.png") no-repeat 0 0 transparent; 
     width: 64px;
     height: 42px;
     line-height: 42px;
