@@ -1,0 +1,57 @@
+.grid li i,
+.grid li input{
+  float: left;
+}
+.grid li input{
+  width: 80%;
+  margin-left: 5%;
+}
+.flags_16 li i{
+  margin-top: 8px;
+}
+.flags_24 li i{
+  margin-top: 8px;
+}
+.flags_32 li i{
+  margin-top: 6px;
+}
+.flags_64 li i{
+  margin-top: -4px;
+}
+.flags_48 li input{
+  min-width: 70%;
+  width: 70%;
+}
+.flags_64 li input{
+  min-width: 60%;
+  width: 60%;
+}
+.fill-custom{
+  background: #f4f4f4;
+}
+.append{
+  position: absolute;
+  right: 0;
+  width: 43%;
+}
+.append li{
+  float: left;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.append li i{
+  float: left;
+  width: 60px;
+  margin-right: 12px;
+}
+.append li input{
+  float: left;
+  width: 286px;
+  min-width: 50%;
+}
+.none{
+  display: none;
+}
+.md{
+  margin-top: 6px;
+}
